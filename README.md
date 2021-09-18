@@ -1,0 +1,2 @@
+# Cedric
+Stock ROM cedric
